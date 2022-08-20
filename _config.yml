@@ -1,4 +1,4 @@
 theme: jekyll-theme-architect
 title: [Programming Guide]
 description: [Online Bootcamp Training Guide]
-show_downloads: [false]
+show_downloads: [true]
