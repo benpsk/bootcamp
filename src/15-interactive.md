@@ -1,3 +1,5 @@
+## Making Your Site Interactive
+
 Let's make a photo gallery. We have a bunch of cute dog photos (of my beloved pupper, Luna) that we want to show one at a time. So, using CSS and JavaScript together, how could we do that?
 
 [Here are some images of my dog][luna] if you need images, otherwise feel free to use whatever images you want!

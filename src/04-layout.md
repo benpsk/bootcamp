@@ -1,10 +1,10 @@
 ## Demo
 
-Explore the box model, including `padding`, `border`, `margin`, `width`, and `height`, as well as the `display:inline` and `display: block` properties, using this CodePen link: https://codepen.io/benpsk/pen/poLGLdK
+Explore the box model, including `padding`, `border`, `margin`, `width`, and `height`, as well as the `display:inline` and `display: block` properties, using this CodePen link: [https://codepen.io/benpsk/pen/poLGLdK](https://codepen.io/benpsk/pen/poLGLdK)
 
-CodePen end state for the box model discussion: https://codepen.io/benpsk/pen/jOzdzYz
+CodePen end state for the box model discussion: [https://codepen.io/benpsk/pen/jOzdzYz](https://codepen.io/benpsk/pen/jOzdzYz)
 
-CodePen for discussion of rem vs em units of measure: https://codepen.io/benpsk/pen/GRxzxQN
+CodePen for discussion of rem vs em units of measure: [https://codepen.io/benpsk/pen/GRxzxQN](https://codepen.io/benpsk/pen/GRxzxQN)
 
 ![Box model](./images/css-boxmodel.png)
 
@@ -385,11 +385,11 @@ html {
 
 The first declaration sets the `<html>` tag to the border box model. However, this property is not inherited. The second declaration says for everything in the universe (`*`) and everything before it (`*:before`) and everything after it (`*:after`), inherit the border box model declaration. You can place this at the top of every CSS document you write going forward!
 
-Read more about that formula here: https://www.paulirish.com/2012/box-sizing-border-box-ftw/
+Read more about that formula here: [https://www.paulirish.com/2012/box-sizing-border-box-ftw/](https://www.paulirish.com/2012/box-sizing-border-box-ftw/)
 
 ## Understanding Floats and Clears
 
-We will use this CodePen example to explore the world of floats and clears: https://codepen.io/benpsk/pen/poLGLLZ?editors=1100
+We will use this CodePen example to explore the world of floats and clears: [https://codepen.io/benpsk/pen/poLGLLZ?editors=1100](https://codepen.io/benpsk/pen/poLGLLZ?editors=1100)
 
 ### `float`
 
@@ -473,7 +473,7 @@ p.p-noclear {
 <p class="p-noclear">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</p>
 ```
 
-Read more about clearing: https://css-tricks.com/snippets/css/clear-fix/
+Read more about clearing: [https://css-tricks.com/snippets/css/clear-fix/](https://css-tricks.com/snippets/css/clear-fix/)
 
 ## Styling navigation bars in a horizontal and vertical direction
 
@@ -481,15 +481,15 @@ We'll work with CodePen for learning how to style navigation bars using all of t
 
 For our vertical navigation bar, we'll turn off the bullets in the list, then style the list of links to look like buttons.
 
-Vertical navigation bars start for lecture: https://codepen.io/benpsk/pen/RwMvMyG
+Vertical navigation bars start for lecture: [https://codepen.io/benpsk/pen/RwMvMyG](https://codepen.io/benpsk/pen/RwMvMyG)
 
-Vertical navigation bars finish state: https://codepen.io/benpsk/pen/PoRVRem
+Vertical navigation bars finish state: [https://codepen.io/benpsk/pen/PoRVRem](https://codepen.io/benpsk/pen/PoRVRem)
 
 For our horizontal navigation bar, we'll make our unordered list go vertically on the page using `display: inline-block;`.
 
-Horizontal navigation bars start for lecture: https://codepen.io/benpsk/pen/bGvzvMY
+Horizontal navigation bars start for lecture: [https://codepen.io/benpsk/pen/bGvzvMY](https://codepen.io/benpsk/pen/bGvzvMY)
 
-Horizontal navigation bars finish state: https://codepen.io/benpsk/pen/NWYoYMX
+Horizontal navigation bars finish state: [https://codepen.io/benpsk/pen/NWYoYMX](https://codepen.io/benpsk/pen/NWYoYMX)
 
 ## Introducing Flexbox
 
@@ -595,10 +595,10 @@ The `flex-basis` property, however, is more flexible. It says to make the width 
 
 ### Understanding Floats and Clears
 
-- All About Floats: https://css-tricks.com/all-about-floats/
-- Floatutorial: http://css.maxdesign.com.au/floatutorial/
-- How Floating Works: https://bitsofco.de/how-floating-works/
-- The Clearfix: https://css-tricks.com/snippets/css/clear-fix/
+- All About Floats: [https://css-tricks.com/all-about-floats/](https://css-tricks.com/all-about-floats/)
+- Floatutorial: [http://css.maxdesign.com.au/floatutorial/](http://css.maxdesign.com.au/floatutorial/)
+- How Floating Works: [https://bitsofco.de/how-floating-works/](https://bitsofco.de/how-floating-works/)
+- The Clearfix: [https://css-tricks.com/snippets/css/clear-fix/](https://css-tricks.com/snippets/css/clear-fix/)
 
 ### Block level vs. inline elements; inline-block
 
@@ -613,17 +613,17 @@ The `flex-basis` property, however, is more flexible. It says to make the width 
 
 ### Flexbox References
 
-- Flexbox Froggy, a game for learning flexbox http://flexboxfroggy.com/
-- Flexbox Defense, another Flexbox game http://www.flexboxdefense.com/
-- A complete guide to Flexbox https://css-tricks.com/snippets/css/a-guide-to-flexbox/
-- MDN CSS Flexible Box Layout https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout
-- Almost complete guide to flexbox (without flexbox) https://kyusuf.com/post/almost-complete-guide-to-flexbox-without-flexbox
+- Flexbox Froggy, a game for learning flexbox [http://flexboxfroggy.com/](http://flexboxfroggy.com/)
+- Flexbox Defense, another Flexbox game [http://www.flexboxdefense.com/](http://www.flexboxdefense.com/)
+- A complete guide to Flexbox [https://css-tricks.com/snippets/css/a-guide-to-flexbox/](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- MDN CSS Flexible Box Layout [https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout)
+- Almost complete guide to flexbox (without flexbox) [https://kyusuf.com/post/almost-complete-guide-to-flexbox-without-flexbox](https://kyusuf.com/post/almost-complete-guide-to-flexbox-without-flexbox)
 
 ## Exercises
 
 ### Layout Lesson Files
 
-Files on Github https://github.com/benpsk/bootcamp/tree/master/static/exercises/3-layout
+Files on Github [https://github.com/benpsk/bootcamp/tree/master/static/exercises/3-layout](https://github.com/benpsk/bootcamp/tree/master/static/exercises/3-layout)
 
 <a href="https://github.com/benpsk/bootcamp/blob/master/static/exercises/3-layout.zip" download>Download ZIP of Files</a>
 
@@ -631,9 +631,9 @@ Files on Github https://github.com/benpsk/bootcamp/tree/master/static/exercises/
 
 Remember to use the HTML and CSS validators if things are looking odd in the browser, or if the colors in the editor seem off. That's an indicator that you've made some errors along the way. The HTML validator is great for catching errors pertaining to syntax, tag spelling, tag nesting, and applying the right attributes to a given tag. The CSS validator will find unclosed curly brackets, properties and values that don't exist, and more.
 
-HTML validator: http://validator.w3.org/
+HTML validator: [http://validator.w3.org/](http://validator.w3.org/)
 
-CSS validator: http://jigsaw.w3.org/css-validator
+CSS validator: [http://jigsaw.w3.org/css-validator](http://jigsaw.w3.org/css-validator)
 
 ### Code a Blog Page
 
@@ -646,14 +646,14 @@ I've given you some images and a picture of a web page layout. You have everythi
 
 Work on this first, and ask questions in Slack. I'll address questions in the afternoon.
 
-Starting HTML, CSS, and images are here: https://github.com/benpsk/bootcamp/tree/master/static/exercises/3-layout/blog-begin
+Starting HTML, CSS, and images are here: [https://github.com/benpsk/bootcamp/tree/master/static/exercises/3-layout/blog-begin](https://github.com/benpsk/bootcamp/tree/master/static/exercises/3-layout/blog-begin)
 
 ### Box Model Worksheets
 
 I've given you some worksheets that have you calculate the width of the content and the total width of the area, based on either the content box model or the border box model. Work through the math and check your answers, provided separately. Ask questions if you have them!
 
 Worksheets found at:
-https://github.com/benpsk/bootcamp/tree/master/static/exercises/3-layout/boxmodel
+[https://github.com/benpsk/bootcamp/tree/master/static/exercises/3-layout/boxmodel](https://github.com/benpsk/bootcamp/tree/master/static/exercises/3-layout/boxmodel)
 
 ### Finish the book chapter
 
@@ -662,7 +662,7 @@ Once again, visit your book chapter. Choose some images and include them, floati
 ### Additional CSS practice
 
 If you finish early, and/or you want some more practice, work through the following sections of exercises at W3Schools:
-https://www.w3schools.com/css/exercise.asp
+[https://www.w3schools.com/css/exercise.asp](https://www.w3schools.com/css/exercise.asp)
 
 - CSS Border
 - CSS Margin

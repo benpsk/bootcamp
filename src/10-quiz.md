@@ -1,3 +1,5 @@
+## Exercise: Quiz
+
 For your first exercise you are going to build a quiz game! We are going to use a tool called [CodePen][codepen]. CodePen is basically a little miniature development environment contained in your browser. Instead of having your separate HTML, CSS, and JavaScript files, CodePen combines them nicely into one web page for you. It's nice for making simple, shareable pieces of code. And you it makes it easy to do exercises.
 
 Some words of advice for as you use CodePen:

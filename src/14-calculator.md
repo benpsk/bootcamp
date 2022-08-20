@@ -1,3 +1,5 @@
+## Exercise: Making the Calculator Work with JavaScript
+
 <style>
   .calc {
     display: inherit;

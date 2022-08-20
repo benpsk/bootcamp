@@ -2,7 +2,7 @@
 
 ### Lesson Files
 
-The files for this lesson are found at https://github.com/benpsk/bootcamp/tree/master/static/exercises/4-forms
+The files for this lesson are found at [https://github.com/benpsk/bootcamp/tree/master/static/exercises/4-forms](https://github.com/benpsk/bootcamp/tree/master/static/exercises/4-forms)
 
 [Download ZIP of Files](https://github.com/benpsk/bootcamp/blob/master/static/exercises/4-forms.zip)
 
@@ -200,7 +200,7 @@ Example: a list of states, a list of sizes, etc.
 
 ### `<label></label>`
 
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element/label
+[https://developer.mozilla.org/en-US/docs/Web/HTML/Element/label](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/label)
 
 Associates a text label with a form field. Many examples of this given above.
 
@@ -216,7 +216,7 @@ Your processing script developer will tell you what to use for ID, name, and val
 
 Since hidden fields are not visible to the user, label tags are not required.
 
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/hidden
+[https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/hidden](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/hidden)
 
 ```html
 <form action="index.php" method="post">
@@ -266,9 +266,9 @@ Wouldn't it be nice to have access to other fonts? That's where web fonts come i
 
 Web fonts may cost money, or they might be free. There are several places to get a web font, but two places in most common use include Google Fonts and FontAwesome.
 
-Google Fonts https://fonts.google.com/ will let you pick your own fonts and assign them to your web page. Don't pick too many, though, or they will slow down the loading time of your web page -- very bad for mobile phone service especially!
+Google Fonts [https://fonts.google.com/](https://fonts.google.com/) will let you pick your own fonts and assign them to your web page. Don't pick too many, though, or they will slow down the loading time of your web page -- very bad for mobile phone service especially!
 
-FontAwesome Free https://fontawesome.com/free has over 1000 icons that are useful for web pages, including social media icons, arrows, credit cards, documents, and so much more.
+FontAwesome Free [https://fontawesome.com/free](https://fontawesome.com/free) has over 1000 icons that are useful for web pages, including social media icons, arrows, credit cards, documents, and so much more.
 
 Web fonts are included on your page in two steps. Both pieces of code should be provided by the font provider.
 
@@ -324,9 +324,9 @@ Whew, we have done a LOT this week! If you want to spend time reviewing, making 
 
 Remember to use the HTML and CSS validators if things are looking odd in the browser, or if the colors in the editor seem off. That's an indicator that you've made some errors along the way. The HTML validator is great for catching errors pertaining to syntax, tag spelling, tag nesting, and applying the right attributes to a given tag. The CSS validator will find unclosed curly brackets, properties and values that don't exist, and more.
 
-HTML validator: http://validator.w3.org/
+HTML validator: [http://validator.w3.org/](http://validator.w3.org/)
 
-CSS validator: http://jigsaw.w3.org/css-validator
+CSS validator: [http://jigsaw.w3.org/css-validator](http://jigsaw.w3.org/css-validator)
 
 ### Plan your portfolio
 

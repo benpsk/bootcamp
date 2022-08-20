@@ -26,3 +26,6 @@ Lastly, this isn't a get-rich-quick scheme. Learning to code is hard and require
 
 
 | &nbsp; [Next](./01-setup.md)
+
+
+[rubber-duck]: https://en.wikipedia.org/wiki/Rubber_duck_debugging

@@ -1,3 +1,5 @@
+## Calculator HTML & CSS
+
 Our goal is to create a calculator that looks exactly like this image:
 
 ![](https://frontendmasters.github.io/bootcamp/exercises/5-github/calculator-spec.png)
@@ -6,7 +8,7 @@ Our goal is to create a calculator that looks exactly like this image:
 
 Download the calculator exercise files, including the beginning state, ending state, instructions, and specification for how the calculator should look:
 
-https://github.com/benpsk/bootcamp/tree/master/static/exercises/5-github.zip
+[https://github.com/benpsk/bootcamp/tree/master/static/exercises/5-github.zip](https://github.com/benpsk/bootcamp/tree/master/static/exercises/5-github.zip)
 
 We are focusing this lesson on creating the HTML and CSS for the caclulator. In a future lesson we will make it interactive with JavaScript.
 

@@ -20,7 +20,7 @@
 <p>This is a paragraph of information.</p>
 ```
 
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p
+[https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p)
 
 ### Headings `<h1></h1><h2></h2> ... <h6></h6>`
 
@@ -32,7 +32,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p
 <h3>A Subhead Within the Article</h3>
 ```
 
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements
+[https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements)
 
 ### Unordered list `<ul></ul>`
 
@@ -50,7 +50,7 @@ _Always_ contains `<li>` tags!
 </ul>
 ```
 
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul
+[https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)
 
 ### List item `<li></li>`
 
@@ -64,7 +64,7 @@ _Always_ nested inside a `<ul>` or `<ol>` tag!
 </ul>
 ```
 
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element/li
+[https://developer.mozilla.org/en-US/docs/Web/HTML/Element/li](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/li)
 
 ### Ordered list `<ol></ol>`
 
@@ -80,7 +80,7 @@ _Always_ contains `<li>` tags!
 </ol>
 ```
 
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol
+[https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol)
 
 ### Line break `<br>`
 
@@ -91,7 +91,7 @@ Used where breaks in lines are critical: Poem, address, etc.
 Another line of the poem</p>
 ```
 
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element/br
+[https://developer.mozilla.org/en-US/docs/Web/HTML/Element/br](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/br)
 
 ### Quotation block `<blockquote></blockquote>`
 
@@ -104,7 +104,7 @@ Used for longer quotations.
 </blockquote>
 ```
 
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blockquote
+[https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blockquote](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blockquote)
 
 ### Citation element `<cite></cite>`
 
@@ -117,7 +117,7 @@ Used for citing a creative work.
 </blockquote>
 ```
 
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element/cite
+[https://developer.mozilla.org/en-US/docs/Web/HTML/Element/cite](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/cite)
 
 ### Links and anchors `<a></a>`
 
@@ -133,7 +133,7 @@ Anchor: `<a id="top"></a>`
 
 Link to an anchor: `<a href="#top">Back to top</a>`
 
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a
+[https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a)
 
 ### Image `<img>`
 
@@ -151,7 +151,7 @@ alt = alternative text. Displays if the image does not. Read by search engines a
 <img src="http://placepuppy.net/300/300" alt="A puppy.">
 ```
 
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img
+[https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img)
 
 ### Strong importance `<strong></strong>`
 
@@ -161,7 +161,7 @@ An item is strongly important relative to surrounding text. Text is generally re
 <p>Putting your hand on a hot stove <strong>will get you burned</strong>. Don't do it!</p>
 ```
 
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element/strong
+[https://developer.mozilla.org/en-US/docs/Web/HTML/Element/strong](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/strong)
 
 ### Emphasized text `<em></em>`
 
@@ -171,7 +171,7 @@ An item is emphasized relative to surrounding text. Text is generally rendered i
 <p>You simply <em>must</em> try this new coffee shop!</p>
 ```
 
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element/em
+[https://developer.mozilla.org/en-US/docs/Web/HTML/Element/em](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/em)
 
 ### What is the difference between `<strong>` and `<em>` ?
 
@@ -182,31 +182,31 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Element/em
 > Both \<strong\> and \<em\> can be nested to increase the relative
 > degree of importance or stress emphasis, respectively.
 
-Explanation taken from: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/strong
+Explanation taken from: [https://developer.mozilla.org/en-US/docs/Web/HTML/Element/strong](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/strong)
 
 ## References
 
 **HTML Elements Reference**
 
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+[https://developer.mozilla.org/en-US/docs/Web/HTML/Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
 **InternetingIsHard.com**
 
 - Introduction
-  https://internetingishard.com/html-and-css/introduction/
+  [https://internetingishard.com/html-and-css/introduction/](https://internetingishard.com/html-and-css/introduction/)
 
 - Basic Web Pages
-  https://internetingishard.com/html-and-css/basic-web-pages/
+  [https://internetingishard.com/html-and-css/basic-web-pages/](https://internetingishard.com/html-and-css/basic-web-pages/)
 
 - Links and Images
-  https://internetingishard.com/html-and-css/links-and-images/
+  [https://internetingishard.com/html-and-css/links-and-images/](https://internetingishard.com/html-and-css/links-and-images/)
 
 - Semantic HTML
-  https://internetingishard.com/html-and-css/semantic-html/
+  [https://internetingishard.com/html-and-css/semantic-html/](https://internetingishard.com/html-and-css/semantic-html/)
 
 **Validating HTML**
 
-http://validator.w3.org/
+[http://validator.w3.org/](http://validator.w3.org/)
 
 ## Exercises
 
@@ -214,11 +214,11 @@ http://validator.w3.org/
 
 Remember to use the HTML validator if things are looking odd in the browser, or if the colors in the editor seem off. That's an indicator that you've made some errors along the way. The validator is great for catching errors pertaining to syntax, tag spelling, tag nesting, and applying the right attributes to a given tag.
 
-http://validator.w3.org/
+[http://validator.w3.org/](http://validator.w3.org/)
 
 ### Mark up a book chapter
 
-Go to this page: https://github.com/benpsk/bootcamp/blob/master/static/exercises/1-html/book%20excerpt.txt
+Go to this page: [https://github.com/benpsk/bootcamp/blob/master/static/exercises/1-html/book%20excerpt.txt](https://github.com/benpsk/bootcamp/blob/master/static/exercises/1-html/book%20excerpt.txt)
 
 Copy out the text that is posted there. This is the first chapter of a book published in 1922 and which is now out of copyright.
 
@@ -228,7 +228,7 @@ Reformat this document in HTML, marking up anything you think relevant, based on
 
 If you finish early, and/or you want some more practice, work through the following sections of exercises at W3Schools:
 
-https://www.w3schools.com/html/exercise.asp
+[https://www.w3schools.com/html/exercise.asp](https://www.w3schools.com/html/exercise.asp)
 
 - HTML Attributes exercises 2-5
 

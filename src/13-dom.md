@@ -1,3 +1,5 @@
+## Dom
+
 So far we've been writing code pretty well in a vacuum. We've been using `console.log` as the output mechanism. We haven't really done anything in JavaScript that couldn't be done in any other language. Now we're going to start using JavaScript to interact with your webpage.
 
 Let's first chat about what a browser is and how your code gets from you writing it to being on run in a browser.

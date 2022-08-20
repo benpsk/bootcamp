@@ -24,5 +24,5 @@
 
 <hr />
 
-*Refs:
+*Refs
      - Frontend Masters*
