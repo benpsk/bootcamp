@@ -1,16 +1,10 @@
----
-order: 4
-title: "Layout"
-path: "/layout"
----
-
 ## Demo
 
-Explore the box model, including `padding`, `border`, `margin`, `width`, and `height`, as well as the `display:inline` and `display: block` properties, using this CodePen link: https://codepen.io/jen4web/pen/JmweGL?editors=1100
+Explore the box model, including `padding`, `border`, `margin`, `width`, and `height`, as well as the `display:inline` and `display: block` properties, using this CodePen link: https://codepen.io/benpsk/pen/poLGLdK
 
-CodePen end state for the box model discussion: https://codepen.io/jen4web/pen/zmVbrQ
+CodePen end state for the box model discussion: https://codepen.io/benpsk/pen/jOzdzYz
 
-CodePen for discussion of rem vs em units of measure: https://codepen.io/jen4web/pen/wYLOpj
+CodePen for discussion of rem vs em units of measure: https://codepen.io/benpsk/pen/GRxzxQN
 
 ![Box model](./images/css-boxmodel.png)
 
@@ -395,7 +389,7 @@ Read more about that formula here: https://www.paulirish.com/2012/box-sizing-bor
 
 ## Understanding Floats and Clears
 
-We will use this CodePen example to explore the world of floats and clears: https://codepen.io/jen4web/pen/xymQdz?editors=1100
+We will use this CodePen example to explore the world of floats and clears: https://codepen.io/benpsk/pen/poLGLLZ?editors=1100
 
 ### `float`
 
@@ -487,19 +481,19 @@ We'll work with CodePen for learning how to style navigation bars using all of t
 
 For our vertical navigation bar, we'll turn off the bullets in the list, then style the list of links to look like buttons.
 
-Vertical navigation bars start for lecture: https://codepen.io/jen4web/pen/xymQoM
+Vertical navigation bars start for lecture: https://codepen.io/benpsk/pen/RwMvMyG
 
-Vertical navigation bars finish state: https://codepen.io/jen4web/pen/ZqdZeW
+Vertical navigation bars finish state: https://codepen.io/benpsk/pen/PoRVRem
 
 For our horizontal navigation bar, we'll make our unordered list go vertically on the page using `display: inline-block;`.
 
-Horizontal navigation bars start for lecture: https://codepen.io/jen4web/pen/OBrrLR
+Horizontal navigation bars start for lecture: https://codepen.io/benpsk/pen/bGvzvMY
 
-Horizontal navigation bars finish state: https://codepen.io/jen4web/pen/oarRXQ
+Horizontal navigation bars finish state: https://codepen.io/benpsk/pen/NWYoYMX
 
 ## Introducing Flexbox
 
-Flexbox is a new way of managing the layout of web pages. It has recently become extremely popular and useful. Flexbox itself would take an entire day to explain well, so we are going to focus on just a few properties you'll need to make simple layouts. You can find much more about Flexbox at Frontend Masters: https://frontendmasters.com/courses/css-grids-flexbox/
+Flexbox is a new way of managing the layout of web pages. It has recently become extremely popular and useful. Flexbox itself would take an entire day to explain well, so we are going to focus on just a few properties you'll need to make simple layouts. 
 
 To make flexbox work, you need two HTML tags that have a parent-child relationship. These are called the _flex container_ (parent) and the _flex item_ (child). Example:
 
@@ -629,9 +623,9 @@ The `flex-basis` property, however, is more flexible. It says to make the width 
 
 ### Layout Lesson Files
 
-Files on Github https://github.com/FrontendMasters/bootcamp/tree/master/static/exercises/3-layout
+Files on Github https://github.com/benpsk/bootcamp/tree/master/exercise/exercises/3-layout
 
-<a href="https://github.com/FrontendMasters/bootcamp/tree/master/static/exercises/3-layout.zip" download>Download ZIP of Files</a>
+<a href="https://github.com/benpsk/bootcamp/blob/master/exercise/exercises/3-layout.zip" download>Download ZIP of Files</a>
 
 ### Waaaa, it "doesn't work"!!!
 

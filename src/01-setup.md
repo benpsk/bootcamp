@@ -1,18 +1,11 @@
----
-order: 1
-title: "Setup & Prerequisites"
-path: "/setup"
----
-
 ## 1. Go Through Internet Fundamentals
 
-In order to make sure you have the skills you’ll need to follow along with the Bootcamp, you'll need to take the FREE [Internet Fundamentals course](https://internetfundamentals.com).
+In order to make sure you have the skills you’ll need to follow along with the Bootcamp, you'll need to take the Internet Fundamentals course.
 
 ## 2. Install Visual Studio Code (VSCode)
 
 You should install [VSCode](https://code.visualstudio.com) (Visual Studio Code) on your computer, as
-this was part of the Internet Fundamentals course:
-www.internetfundamentals.com
+this was part of the Internet Fundamentals course.
 
 To this, we will add an extension.
 

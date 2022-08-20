@@ -1,9 +1,3 @@
----
-order: 3
-title: "CSS"
-path: "/css"
----
-
 ## Terminology
 
 **Property** (red) and **value** (blue)
