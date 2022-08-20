@@ -22,6 +22,7 @@
 17. [Exercise: Dog App](./src/17-dogs.md)
 18. [Exercise: Feed-A-Star-Mole](./src/18-mole.md)
 
-<br />
+<hr />
+
 *Refs:
      - Frontend Masters*
