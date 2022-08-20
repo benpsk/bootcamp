@@ -679,3 +679,6 @@ Create a navigation bar with appropriate styling to link the pages together. Lin
 Create columns on your page, with main content and a side bar.
 
 In the side bar, feature favorite photos, favorite quotes, links to favorite websites, or other content that supplements the main message of the web page.
+
+
+[Previous](./03-css.md) &nbsp; | &nbsp; [Next](./05-forms.md)

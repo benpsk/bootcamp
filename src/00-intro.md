@@ -23,3 +23,6 @@ Never feel afraid to Google _anything_. Every programmer you know, from the top 
 Don't try to understand every piece all at once. There are times where it's okay to just trust that something works and come back later to understand how. It's a tough balance because you do want to try to understand what's going on. We will tell you what's worth diving into and what's worth leaving for another day. You don't have to understand it all at once.
 
 Lastly, this isn't a get-rich-quick scheme. Learning to code is hard and requires a lot of hard work. While entry-level jobs are out there, and you can get them with months of work, we guarantee you you'll have to work hard for them.
+
+
+| &nbsp; [Next](./01-setup.md)

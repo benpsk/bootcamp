@@ -218,4 +218,8 @@ You can use your console in your browser to see the output. When you make a chan
 <iframe height='500' scrolling='no' title='JS Exercise' src='//codepen.io/btholt/embed/ELozBz/?height=500&theme-id=dark&default-tab=js&embed-version=2&editable=true' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/btholt/pen/ELozBz/'>JS Exercise</a> by Brian Holt (<a href='https://codepen.io/btholt'>@btholt</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe>
 
+
+[Previous](./07-calculator-setup.md) &nbsp; | &nbsp; [Next](./09-functions-and-scope.md)
+
+
 [devtools]: https://webmasters.stackexchange.com/questions/8525/how-do-i-open-the-javascript-console-in-different-browsers

@@ -7,6 +7,10 @@ These tests are hard. Be prepared for that. You're finished when you make all yo
 - [Exercise][exercise]
 - [Answer][answer]
 
+
+[Previous](./11-objects-and-arrays.md) &nbsp; | &nbsp; [Next](./13-dom.md)
+
+
 [exercise]: https://codepen.io/benpsk/pen/JjLxLVd?editors=0010
 [answer]: https://codepen.io/benpsk/pen/dymamLX?editors=0010
 [cs]: https://btholt.github.io/four-semesters-of-cs/

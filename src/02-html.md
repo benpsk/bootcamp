@@ -277,3 +277,6 @@ activities. Include:
 If you manage to get as far as creating both web pages, link them together with a navigation bar.
 
 As always, do not be concerned with how these pages look. They are Ugly Web Pages&trade;! Be sure to use the right HTML tags to communicate what the content is about, not what you think is pretty.
+
+
+[Previous](./01-setup.md) &nbsp; | &nbsp; [Next](./03-css.md)

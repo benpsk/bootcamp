@@ -30,3 +30,6 @@ and the extension will be installed.
 The extension is installed when your screen looks like this:
 
 ![](./images/vscode-enabled.jpg)
+
+
+[Previous](./00-intro.md) &nbsp; | &nbsp; [Next](./02-html.md)

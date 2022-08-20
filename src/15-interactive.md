@@ -319,6 +319,10 @@ and this to your CSS
 
 Take your exisitng portfolio and add some sort of animation to it or add a photo gallery, either using Swiper or the one you wrote personally!
 
+
+[Previous](./14-calculator.md) &nbsp; | &nbsp; [Next](./16-ajax.md)
+
+
 [luna]: ../static/gallery/luna.zip
 [my-version]: ../static/gallery/index.html
 [my-version-2]: ../static/gallery/with-libraries.html

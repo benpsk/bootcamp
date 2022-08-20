@@ -150,4 +150,7 @@ const name = "Brian Holt";
 console.log(name.substr(6, 3));
 ```
 
+
+[Previous](./08-intro-to-programming.md) &nbsp; | &nbsp; [Next](./10-quiz.md)
+
 [mdn]: https://developer.mozilla.org/en-US/

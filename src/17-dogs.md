@@ -80,6 +80,10 @@ Good luck!
 
 If you want to see my answers, [here is the JavaScript][js], [here is the CSS][css], and [here is the HTML][html].
 
+
+[Previous](./16-ajax.md) &nbsp; | &nbsp; [Next](./18-mole.md)
+
+
 [dogceo]: https://dog.ceo/dog-api/documentation/
 [dog-viewer]: https://frontendmasters.github.io/bootcamp/dog-viewer/dog.html
 [loading]: https://codepen.io/tag/spinner/#

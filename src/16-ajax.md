@@ -120,6 +120,10 @@ For your extra-credit project, here are some cool ways to expand this project:
 1. Show a loading gif (just use an `<img />`) that shows when you're loading a new doggo and then hide it when you're done.
 1. The dog.ceo API allows you to [request a list of breeds][breeds]. Use this list to populate a `<select></select>`. Then when a user select a dog breed, show a picture of that dog using the the [random image by breed][pic] API.
 
+
+[Previous](./15-interactive.md) &nbsp; | &nbsp; [Next](./17-dogs.md)
+
+
 [dog]: https://dog.ceo/dog-api/
 [api]: https://github.com/toddmotto/public-apis
 [breeds]: https://dog.ceo/dog-api/documentation/

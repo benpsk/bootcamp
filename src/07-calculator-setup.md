@@ -61,3 +61,6 @@ You'll program them later in the course with JavaScript. But for right now, some
 - You can add a class to get the orange buttons. Or you could try `:last-child` (assuming you have row div.)
 
 Good luck!
+
+
+[Previous](./06-github.md) &nbsp; | &nbsp; [Next](./08-intro-to-programming.md)

@@ -147,3 +147,6 @@ Remember to use the HTML and CSS validators if things are looking odd in the bro
 HTML validator: http://validator.w3.org/
 
 CSS validator: http://jigsaw.w3.org/css-validator
+
+
+[Previous](./05-forms.md) &nbsp; | &nbsp; [Next](./07-calculator-setup.md)

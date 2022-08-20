@@ -350,3 +350,6 @@ Work through the following sections of exercises at W3Schools (scroll to bottom 
 - Use similar styling to your about and hobby pages, and add the contact page.
 - In the contact form, ask for name, email, phone number, and have a big area for typing a message. Don't forget a submit button! You may ask for other information if you wish.
 - Include a map of your location on this page. (If you don't want to include your exact address, include a map of your city or your country.)
+
+
+[Previous](./04-layout.md) &nbsp; | &nbsp; [Next](./06-github.md)

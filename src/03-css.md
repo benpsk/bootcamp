@@ -461,3 +461,6 @@ If you still need more to do, make a page about some of your hobbies and activit
 - Links to websites describing your hobby, or where hobbyists discuss what they do
 
 If you manage to get as far as creating both web pages, link them together with a navigation bar.
+
+
+[Previous](./02-html.md) &nbsp; | &nbsp; [Next](./04-layout.md)

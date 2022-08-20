@@ -97,6 +97,9 @@ Good luck!
 
 If you want to see my answers, [here is the JavaScript][js], [here is the CSS][css], and [here is the HTML][html].
 
+
+[Previous](./17-dogs.md) &nbsp; | 
+
 [alice]: https://www.pickledalice.com/
 [mole]: ../static/mole-game/mole.html
 [epoch]: https://en.wikipedia.org/wiki/Unix_time

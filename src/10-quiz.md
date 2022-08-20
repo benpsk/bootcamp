@@ -16,6 +16,10 @@ Good luck!
 - [Exercise][ex]
 - [Answer][ans]
 
+
+[Previous](./09-functions-and-scope.md) &nbsp; | &nbsp; [Next](./11-objects-and-arrays.md)
+
+
 [codepen]: https://codepen.io
 [no-js]: https://blog.codepen.io/documentation/features/turn-off-javascript-in-previews/
 [ex]: https://codepen.io/benpsk/pen/poLGLGx
