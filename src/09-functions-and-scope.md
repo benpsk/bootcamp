@@ -1,9 +1,3 @@
----
-order: 9
-title: "Functions and Scope"
-path: "/functions-and-scope"
----
-
 A function is a bit of re-usable code. Just how we like to re-use CSS classes, we love to re-use code. Let's start with an example:
 
 ```javascript

@@ -16,7 +16,7 @@
 11. [Objects and Arrays](./src/11-objects-and-arrays.md)
 12. [Exercise: Make the Tests Pass](./src/12-tests.md)
 13. [The DOM](./src/13-dom.md)
-14. [Exercise: Making the Calculator Work with JavaScript](./src/alculator.md)
+14. [Exercise: Making the Calculator Work with JavaScript](./src/14-calculator.md)
 15. [Making Your Site Interactive](./src/15-interactive.md)
 16. [AJAX](./src/16-ajax.md)
 17. [Exercise: Dog App](./src/17-dogs.md)

@@ -1,9 +1,3 @@
----
-order: 11
-title: "Objects and Arrays"
-path: "/objects-and-arrays"
----
-
 So far we've talked about having one variable at a time: one first name, one last name, one price, etc. What if we have a collection of data? It'd be nice to group together like data. Good news! You can!
 
 ```javascript
@@ -126,7 +120,7 @@ console.log(window.scrollY);
 
 As you can see from the first line, you can see that in this context, window is the `this` at that time. However, in the example above when we're doing the address, the `this` is the object since when I **call the function**, it's created inside of an object. That object then becomes `this` when `getAddress` is called. As soon as the function completes, the context is destroyed and the context goes back to being what it was before, in this case `window`.
 
-A good rule of thumb (that is unfortunately not always true) is that if you're inside an object of some sort, the `this` will be that object. If not, it'll be the global object, `window`. There are crazy exceptions to this and you can even manipulate it yourself. For now, operate with that definition. It's a deep-and-dark rabbit hole to go down so let's continue and you can take [Kyle Simpson's course][kyle] later where he goes in depth on it.
+A good rule of thumb (that is unfortunately not always true) is that if you're inside an object of some sort, the `this` will be that object. If not, it'll be the global object, `window`. There are crazy exceptions to this and you can even manipulate it yourself. For now, operate with that definition. 
 
 ## Arrays
 
@@ -210,5 +204,3 @@ cities.forEach(function(city) {
 The first way, using a for loop, we're using that `i` control variable which gets incremented each loop. We use that `i` to access each item in the array on each iteration of the loop. We have the loop stop when `i` gets equal to the `length` of cities. Very useful pattern. You'll see it a lot.
 
 The second way is using a function that arrays have called `forEach`. This `forEach` method takes in a function and that function will be called once on each item of the array. It will pass that item into the function, which is what `city` is in this situation. Both are useful patterns to know. You'll use both frequently. While you're getting started, just use the one you feel comfortable with. They have different things that make them preferable in different situations but usually you can use either. Method 2 may be a bit more advance but I don't think you should be scared of it.
-
-[kyle]: https://frontendmasters.com/courses/javascript-foundations/this/

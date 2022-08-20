@@ -218,7 +218,7 @@ http://validator.w3.org/
 
 ### Mark up a book chapter
 
-Go to this page: https://github.com/benpsk/bootcamp/blob/master/exercise/exercises/1-html/book%20excerpt.txt
+Go to this page: https://github.com/benpsk/bootcamp/blob/master/static/exercises/1-html/book%20excerpt.txt
 
 Copy out the text that is posted there. This is the first chapter of a book published in 1922 and which is now out of copyright.
 

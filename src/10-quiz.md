@@ -1,9 +1,3 @@
----
-order: 10
-title: "Exercise: Quiz"
-path: "/quiz"
----
-
 For your first exercise you are going to build a quiz game! We are going to use a tool called [CodePen][codepen]. CodePen is basically a little miniature development environment contained in your browser. Instead of having your separate HTML, CSS, and JavaScript files, CodePen combines them nicely into one web page for you. It's nice for making simple, shareable pieces of code. And you it makes it easy to do exercises.
 
 Some words of advice for as you use CodePen:
@@ -24,5 +18,5 @@ Good luck!
 
 [codepen]: https://codepen.io
 [no-js]: https://blog.codepen.io/documentation/features/turn-off-javascript-in-previews/
-[ex]: https://codepen.io/btholt/pen/VELvwP
-[ans]: https://codepen.io/btholt/pen/aRZWGV
+[ex]: https://codepen.io/benpsk/pen/poLGLGx
+[ans]: https://codepen.io/benpsk/pen/ZExwxwP

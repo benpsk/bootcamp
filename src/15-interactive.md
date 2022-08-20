@@ -1,9 +1,3 @@
----
-path: "/interactive"
-title: "Making Your Site Interactive"
-order: 15
----
-
 Let's make a photo gallery. We have a bunch of cute dog photos (of my beloved pupper, Luna) that we want to show one at a time. So, using CSS and JavaScript together, how could we do that?
 
 [Here are some images of my dog][luna] if you need images, otherwise feel free to use whatever images you want!
@@ -325,9 +319,9 @@ and this to your CSS
 
 Take your exisitng portfolio and add some sort of animation to it or add a photo gallery, either using Swiper or the one you wrote personally!
 
-[luna]: ./luna.zip
-[my-version]: ./gallery/index.html
-[my-version-2]: ./gallery/with-libraries.html
+[luna]: ../static/gallery/luna.zip
+[my-version]: ../static/gallery/index.html
+[my-version-2]: ../static/gallery/with-libraries.html
 [api]: http://idangero.us/swiper/api/#parameters
 [swiper]: http://idangero.us/swiper/
 [popmotion]: https://popmotion.io/pure/

@@ -1,9 +1,3 @@
----
-order: 14
-title: "Exercise: Making the Calculator Work with JavaScript"
-path: "/calculator"
----
-
 <style>
   .calc {
     display: inherit;
@@ -15,7 +9,7 @@ We are going to rebuild the calculator on iOS! Here it is:
 
 <!-- ![Calculator build in HTML and CSS](./images/calculator.png) -->
 
-<iframe class="calc" width="400" height="595" title="Calculator" src="./calculator.html" frameborder="no" allowtransparency="true"></iframe>
+<iframe class="calc" width="400" height="595" title="Calculator" src="../static/calculator.html" frameborder="no" allowtransparency="true"></iframe>
 
 My implementation of it is embedded here on the page so feel free to play with it.
 
@@ -70,7 +64,7 @@ You can copy and paste the HTML & CSS to start with locally, or use our [calculc
 
 ### Answer: [The JavaScript][js]
 
-[html]: https://github.com/FrontendMasters/bootcamp/blob/master/static/calculator.html
-[css]: https://github.com/FrontendMasters/bootcamp/blob/master/static/calculator.css
-[js]: https://github.com/FrontendMasters/bootcamp/blob/master/static/calculator.js
-[calcstarter]: https://codepen.io/frontendmasters/pen/wQMgWR
+[html]: https://github.com/benpsk/bootcamp/blob/master/static/calculator.html
+[css]: https://github.com/benpsk/bootcamp/blob/master/static/calculator.css
+[js]: https://github.com/benpsk/bootcamp/blob/master/static/calculator.js
+[calcstarter]: https://codepen.io/benpsk/pen/WNzPzqK

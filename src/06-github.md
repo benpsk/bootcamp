@@ -1,16 +1,10 @@
----
-order: 6
-title: "GitHub"
-path: "/github"
----
-
 ## GitHub Pages
 
 ### Getting Web Pages Online
 
-Files are found at https://github.com/FrontendMasters/bootcamp/tree/master/static/exercises/5-github
+Files are found at https://github.com/benpsk/bootcamp/tree/master/static/exercises/5-github
 
-[Download ZIP of Files](https://github.com/FrontendMasters/bootcamp/blob/master/static/exercises/5-github.zip)
+[Download ZIP of Files](https://github.com/benpsk/bootcamp/blob/master/static/exercises/5-github.zip)
 
 ### Getting web pages online
 
